@@ -1,7 +1,6 @@
 # Connectify Hub
 
 Connectify Hub is a contact management web application built using React. It allows users to save, search, edit, and delete contacts with ease.
-<<<<<<< HEAD
 
 ## Features
 
@@ -25,16 +24,6 @@ Connectify Hub is a contact management web application built using React. It all
 2. **Install dependencies:**
     ```bash
     npm install
-    ```
-
-3. **Start the development server:**
-    ```bash
-    npm start
-    ```
-
-4. **Open the application in your browser:**
-    ```
-    http://localhost:5173
     ```
 
 ## Usage
@@ -76,25 +65,7 @@ Main component that ties everything together and manages the state.
 - **React Hook Form:** Library for managing forms.
 - **Local Storage:** Web API for storing data in the browser.
 
-=======
 
-## Features
-
-- **Add Contacts:** Save new contacts with a name and phone number.
-- **Search Contacts:** Search for contacts by name.
-- **Edit Contacts:** Update existing contact information.
-- **Delete Contacts:** Remove contacts from the list.
-- **Local Storage:** Contacts are saved in the browser's local storage, so they persist between sessions.
-
-## Where To Find
--Hosted AT:https://krconnectifyhub.netlify.app/
-
-## Installation
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/Kr-HEmanth25/connectify-hub.git
-    cd connectify-hub
     ```
 
 2. **Install dependencies:**
@@ -130,7 +101,7 @@ Main component that ties everything together and manages the state.
 4. **Deleting a Contact:**
    - Click the delete icon next to the contact you want to delete.
 
-## Components
+## ContactComponents
 
 ### ContactForm
 
@@ -151,38 +122,6 @@ Main component that ties everything together and manages the state.
 - **React Hook Form:** Library for managing forms.
 - **Local Storage:** Web API for storing data in the browser.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
-
-1. **Fork the repository.**
-2. **Create a new branch:**
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. **Make your changes and commit them:**
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. **Push to the branch:**
-    ```bash
-    git push origin feature-branch
-    ```
-5. **Open a pull request.**
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Icons by [Lordicon](https://lordicon.com/)
-- [React Hook Form](https://react-hook-form.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-
-## Contact
-
-For any questions or feedback, please reach out to [your email](mailto:youremail@example.com).
 
 ---
 
